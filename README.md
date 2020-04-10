@@ -1,4 +1,4 @@
-## Titanic_kaggle
+## Titanic: Kaggle
 ## Problem Statement
 
 ### Introduction
