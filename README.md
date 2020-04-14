@@ -14,4 +14,3 @@ RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean 
 We have data of all passengers and the problem statement is to predict the survival  of a passenger given his current data inputs. The complete data can be downloaded here - www.kaggle.com/c/titanic
 
 
-Let's
